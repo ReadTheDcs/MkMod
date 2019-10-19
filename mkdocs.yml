@@ -7,7 +7,7 @@ repo_url: https://github.com/ReadTheDcs/MkMod
 edit_uri: ""
 
 theme:
-    name: readthedocs
+    name: material
     highlightjs: true
     hljs_languages:
         - yaml
