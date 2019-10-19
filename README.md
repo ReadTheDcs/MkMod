@@ -1,7 +1,7 @@
 # MkMod
 =======
-Project documentation with Markdown.
 
+Project documentation with Markdown.
 ---
 
 [![PyPI Version][pypi-v-image]][pypi-v-link]
