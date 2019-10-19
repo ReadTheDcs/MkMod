@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # MkMod
 =======
-# MkDocs
-
 Project documentation with Markdown.
 
 ---
@@ -40,4 +37,3 @@ rooms, and mailing lists is expected to follow the [PyPA Code of Conduct].
 [release-notes]: https://www.mkdocs.org/about/release-notes/
 
 [PyPA Code of Conduct]: https://www.pypa.io/en/latest/code-of-conduct/
->>>>>>> tst
