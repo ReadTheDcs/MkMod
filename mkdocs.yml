@@ -20,8 +20,9 @@ extra_css:
 
 markdown_extensions:
     - toc:
-        permalink: 
+        permalink: true
     - admonition
+    - codehilite
     - def_list
     - mdx_gh_links:
         user: mkdocs
