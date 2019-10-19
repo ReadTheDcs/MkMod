@@ -8,7 +8,7 @@ edit_uri: ""
 
 theme:
     name: null
-    custom_dir: 'themes/material/'
+    custom_dir: 'mkdocs/themes/material/'
     highlightjs: true
     hljs_languages:
         - yaml
