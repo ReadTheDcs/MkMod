@@ -4,9 +4,8 @@ build:
 python:
   setup_py_install: true
    install:
-      - method: pip
+      method: pip
       path: .
-      extra_requirements:
-        - mkdocs-material
+      extra_requirements: mkdocs-material
 
 requirements_file: requirements.txt
