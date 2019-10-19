@@ -1,9 +1,9 @@
-site_name: MkDocs
+site_name: MkMods
 site_url: https://www.mkdocs.org
 site_description: Project documentation with Markdown.
-site_author: MkDocs Team
+site_author: Tempmailo
 
-repo_url: https://github.com/mkdocs/mkdocs/
+repo_url: https://github.com/ReadTheDcs/MkMod
 edit_uri: ""
 
 theme:
